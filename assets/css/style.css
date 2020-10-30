@@ -353,7 +353,7 @@ text-center-xs {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 980px) and (max-width: 991px) {
 
 text-center-sm {
 	text-align: center !important;
